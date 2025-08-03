@@ -1,11 +1,11 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""  # Get this from @BotFather
-OWNER_ID = 0  # Your Telegram User ID (not username) as an integer
-TELEGRAM_API = 0  # Get this from my.telegram.org
-TELEGRAM_HASH = ""  # Get this from my.telegram.org
+BOT_TOKEN = "7985477124:AAHQRkQJ_lwxUlgyMcLFiXn0cXU57XNdt_4"  # Get this from @BotFather
+OWNER_ID = 1572929036  # Your Telegram User ID (not username) as an integer
+TELEGRAM_API = 28455032  # Get this from my.telegram.org
+TELEGRAM_HASH = "28dbb18229d7701a856c42a46083cccf"  # Get this from my.telegram.org
 
 # SEMI-REQUIRED, WE SUGGEST TO FILL IT FROM MONGODB
-DATABASE_URL = ""  # MongoDB URI for storing user data and preferences
+DATABASE_URL = "mongodb+srv://kuttycloudbot:15@tsleech.o8avg.mongodb.net/?retryWrites=true&w=majority&appName=TSLeech"  # MongoDB URI for storing user data and preferences
 
 # Heroku config for get BASE_URL automatically
 HEROKU_APP_NAME = ""
